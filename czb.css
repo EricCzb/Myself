@@ -1,0 +1,38 @@
+ 
+ body{
+	 margin-left:25%;}
+ .con{
+	width: 1080px;
+	left: 50px;
+	margin-left:200px;
+
+ }
+
+
+ h1{
+	
+	width: auto;
+	height: auto;
+	text-align: center;
+	font-size: 70px;
+	font-family: "楷体";
+	font-weight: bolder;
+	color: #0000FF;
+	margin-bottom:20px;
+}
+
+	td{
+	font-size: 35px;
+	font-weight: bold;
+	font-style: oblique;
+
+	}
+	#file{
+		padding-left:50px;}
+		
+		h2{
+			font-size:30px;}
+			
+			.font{
+				font-size:30px;
+				padding:25px;}
